@@ -4,3 +4,5 @@ Diego Aldana tiene 33 años y nació en México,
 pero vivio en todo el mundo
 
 Hoy hablamos de su vida.
+
+Es programador en México
